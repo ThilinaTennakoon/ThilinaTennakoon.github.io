@@ -9,7 +9,7 @@ export default function Home() {
 
     <main className="min-h-screen p-10  pt-20 bg-gradient-to-tr from-blue-400 to-purple-600">
       <div style={{ position: "absolute", top: 0, left: 0, width: "100%", height: "100%", zIndex: 0 }}>
-        {/* For Large Screens */}
+        {/* For Large Screens   ffff */}
         <img
           src="/images/bg-lg.jpeg"
           alt="Background Image LG"
